@@ -11,4 +11,7 @@ button {
   align-items: center;
   text-align: center;
   border-radius: 5px;
+  cursor: pointer; /* Gör knappen klickbar */
+  transition: all 0.3s ease-in-out; /* Lägger till en smidig övergång */
 }
+
